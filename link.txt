@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title_keywords=monarch&title=Monarch%20Airlines%20%7C%20latest&https://api.gdeltproject.org/api/v2/doc/doc?query=%22Monarch%20Airlines%22&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=6h&format=json&timecheck
+https://diplodata.github.io/news/?title=Catalonia%20-%20Spanish%20latest&title_keywords=catalonia,catalan,barcelona&https://api.gdeltproject.org/api/v2/doc/doc?query=referendum%20(catalonia%20OR%20catalan%20OR%20barcelona)%20sourcecountry:SP&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=3h&format=json
