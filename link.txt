@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Austrian%20elections%20-%20latest&title_keywords=wahl,wahlen,wahlkampf,nationalratswahl&https://api.gdeltproject.org/api/v2/doc/doc?query=(Austria%20OR%20Austrian)%20elections%20sourcelang:deu&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
+https://diplodata.github.io/news/?title=Hurricane%20Ophelia&title_keywords=Ophelia&https://api.gdeltproject.org/api/v2/doc/doc?query=Hurricane%20Ophelia%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
