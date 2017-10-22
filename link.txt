@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Hurricane%20Ophelia&title_keywords=Ophelia&https://api.gdeltproject.org/api/v2/doc/doc?query=Hurricane%20Ophelia%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
+https://diplodata.github.io/news/?title=Catalonia%20latest&title_keywords=Catalonia,Catalan&https://api.gdeltproject.org/api/v2/doc/doc?query=Catalonia&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=1d&format=json
