@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Fake%20news%20latest&title_keywords=fake,twitter,facebook,google,%20ads%20,%20ad%20,bot,bots,botnet.botnets,troll,trolls&https://api.gdeltproject.org/api/v2/doc/doc?query=fake%20news%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
+https://diplodata.github.io/news/?title=Kenya%20elections&title_keywords=Kenya,election&https://api.gdeltproject.org/api/v2/doc/doc?query=Kenya%20election&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
