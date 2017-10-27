@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Kenya%20elections&title_keywords=Kenya,election&https://api.gdeltproject.org/api/v2/doc/doc?query=Kenya%20election&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
+https://diplodata.github.io/news/?title=Catalonia%20declares%20independence&https://api.gdeltproject.org/api/v2/doc/doc?query=(Catalan%20OR%20Catalonia)%20independence&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=6h&format=json
