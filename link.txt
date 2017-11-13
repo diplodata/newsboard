@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Paradise%20Papers%20latest&title_keywords=Paradise&https://api.gdeltproject.org/api/v2/doc/doc?query=Paradise%20Papers%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=6h&format=json
+https://diplodata.github.io/news/?title=Iran/Iraq%20earthquake%20latest&title_keywords=quake&https://api.gdeltproject.org/api/v2/doc/doc?query=(Iran%20OR%20Iraq)%20earthquake%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
