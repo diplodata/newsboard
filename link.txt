@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Zimbabwe%20latest&title_keywords=Zim&https://api.gdeltproject.org/api/v2/doc/doc?query=Zimbabwe&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
+https://diplodata.github.io/news/?title=Brexit%20latest&title_keywords=brexit&https://api.gdeltproject.org/api/v2/doc/doc?query=Brexit&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=12h&format=json
