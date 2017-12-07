@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=North%20Korean%20missile%20test&title_keywords=missile,test&https://api.gdeltproject.org/api/v2/doc/doc?query=missile%20sourcecountry:KS%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
+https://diplodata.github.io/news/?title=Modern%20slavery&title_keywords=slave,exploit,traffi,servitu,migran,refug,forced&https://api.gdeltproject.org/api/v2/doc/doc?query=modern%20slavery%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&format=json
