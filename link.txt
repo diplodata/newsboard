@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Iran%20latest&title_keywords=iran&https://api.gdeltproject.org/api/v2/doc/doc?query=Iran%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=12h&format=json
+https://diplodata.github.io/news/?title=Rohingya%20reporting&title_keywords=Rohingya&https://api.gdeltproject.org/api/v2/doc/doc?query=Rohingya%20sourcelang:eng&mode=ArtList&maxrecords=250&timespan=1w&format=json
