@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=PM%20China%20visit&title_keywords=China,May&https://api.gdeltproject.org/api/v2/doc/doc?query=%22Theresa%20May%22%20China&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
+https://diplodata.github.io/news/?title=Pressure%20builds%20on%20Zuma&title_keywords=zuma&https://api.gdeltproject.org/api/v2/doc/doc?query=Zuma%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
