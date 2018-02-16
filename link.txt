@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Olympics%20latest&title_keywords=olympic&https://api.gdeltproject.org/api/v2/doc/doc?query=(Olympics%20OR%20Olympic)%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=12h&format=json
+https://diplodata.github.io/news/?title=Olympics%20latest&title_keywords=olymp&https://api.gdeltproject.org/api/v2/doc/doc?query=(Olympic%20OR%20Olympics)%20(British%20OR%20Britain%20OR%20%22Team%20GB%22)%20%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
