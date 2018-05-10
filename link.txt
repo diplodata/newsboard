@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=North%20Korea%20developments&title_keywords=korea,nuclear,jong&https://api.gdeltproject.org/api/v2/doc/doc?query=(Korea%20OR%20Korean)%20nuclear%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
+https://diplodata.github.io/news/?title=Eurovision%20gossipboard&title_keywords=Eurovision,Brexit,UK,Kingdom&https://api.gdeltproject.org/api/v2/doc/doc?query=Eurovision%20(Brexit%20OR%20%22United%20Kingdom%22%20OR%20Britain)&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=1w&trans=googtrans&format=json
