@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Eurovision%20gossipboard&title_keywords=Eurovision,Brexit,UK,Kingdom&https://api.gdeltproject.org/api/v2/doc/doc?query=Eurovision%20(Brexit%20OR%20%22United%20Kingdom%22%20OR%20Britain)&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=1w&trans=googtrans&format=json
+https://diplodata.github.io/news/?https://api.gdeltproject.org/api/v2/doc/doc?query=Jerusalem&mode=ArtList&sort=DateDesc&maxrecords=75&timespan=24h&format=json
