@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=World%20Cup%20latest&title_keywords=England&https://api.gdeltproject.org/api/v2/doc/doc?query=%22world%20cup%22%20England&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=6h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=US%20Border%20Family%20Separations&title_keywords=famil,child,separat&https://api.gdeltproject.org/api/v2/doc/doc?query=(child%20or%20children)%20families%20trump%20sourcecountry:US&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=12h&format=json
