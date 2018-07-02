@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=German%20coalition%20developments&title_keywords=Merkel&https://api.gdeltproject.org/api/v2/doc/doc?query=(Merkel%20OR%20German)%20coalition&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=ICE%20controversy&https://api.gdeltproject.org/api/v2/doc/doc?query=(%22MS-13%22%20OR%20ICE)%20Kamala%20%22White%20House%22&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&format=json
