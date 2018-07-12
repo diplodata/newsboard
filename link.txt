@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Trump%20visit%20%20(UK%20press)&title_keywords=Trump&https://api.gdeltproject.org/api/v2/doc/doc?query=Trump%20visit%20sourcecountry:UK&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=6h&format=json
+https://diplodata.github.io/news/?title=Trump%20visit%20(UK%20press)&title_keywords=Trump&allimages=true&https://api.gdeltproject.org/api/v2/doc/doc?query=Trump%20visit%20sourcecountry:UK%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=6h&format=json
