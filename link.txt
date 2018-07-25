@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Trump%20visit%20(UK%20press)&title_keywords=Trump&allimages=true&https://api.gdeltproject.org/api/v2/doc/doc?query=Trump%20visit%20sourcecountry:UK%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=6h&format=json
+https://diplodata.github.io/news/?title=Pakistan%20election%202018&https://api.gdeltproject.org/api/v2/doc/doc?query=Pakistan%20election%20&mode=ArtList&maxrecords=250&timespan=6h&trans=googtrans&format=json
