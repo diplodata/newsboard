@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Pakistan%20election%202018&https://api.gdeltproject.org/api/v2/doc/doc?query=Pakistan%20election%20&mode=ArtList&maxrecords=250&timespan=6h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=Reddish%20shadowed%20moon%20-%20latest&title_keywords=lunar,moon,eclipse,blood&https://api.gdeltproject.org/api/v2/doc/doc?query=lunar%20eclipse%20sourcecountry:UK&mode=ArtList&sort=DateDesc&maxrecords=160&timespan=24h&format=json
