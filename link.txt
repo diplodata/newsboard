@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=North%20Korea&https://api.gdeltproject.org/api/v2/doc/doc?query=North%20Korea%20Nuclear&mode=ArtList&maxrecords=75&timespan=24h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=Syria%20-%20Sochi%20talks%20(Russia,%20Turkey,%20Iran)&https://api.gdeltproject.org/api/v2/doc/doc?query=russia%20turkey%20iran%20sochi&mode=ArtList&maxrecords=75&timespan=1d&trans=googtrans&format=json
