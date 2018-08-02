@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Zimbabwe%20elections&https://api.gdeltproject.org/api/v2/doc/doc?query=Zimbabwe%20elections%20%20(sourcecountry:UK%20OR%20sourcecountry:ZI)&mode=ArtList&sort=DateDesc&maxrecords=235&timespan=24h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=Zimbabwe%20elections&https://api.gdeltproject.org/api/v2/doc/doc?query=Zimbabwe%20elections%20%20(sourcecountry:UK%20OR%20sourcecountry:ZI)&mode=ArtList&maxrecords=250&timespan=24h&trans=googtrans&format=json
