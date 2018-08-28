@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Theresa%20May%20South%20Africa%20Visit&https://api.gdeltproject.org/api/v2/doc/doc?query=%22theresa%20may%22,%20%22south%20africa%22&mode=ArtList&maxrecords=75&timespan=24h&trans=googtrans&format=json
+https://api.gdeltproject.org/api/v2/doc/doc?query=%22Theresa%20May%22%20%22South%20Africa%22&mode=ArtGallery&maxrecords=250&timespan=24h&trans=googtrans
