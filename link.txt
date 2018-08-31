@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Germany%20Far%20Right%20Clashes&https://api.gdeltproject.org/api/v2/doc/doc?query=germany%20%22far%20right%22&mode=ArtList&maxrecords=250&timespan=48h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=Syria&https://api.gdeltproject.org/api/v2/doc/doc?query=Russia%20Syria%20military&mode=ArtList&maxrecords=200&timespan=48h&trans=googtrans&format=json
