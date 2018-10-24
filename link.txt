@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=GRU%20cyber%20attacks&https://api.gdeltproject.org/api/v2/doc/doc?query=(GRU%20OR%20%22cyber%20berkut%22%20OR%20%22voodoo%20bear%22%20OR%20%22blackenergy%20actors%22%20OR%20%22tsar%20team%22%20OR%20sandoworm)%20(cyberattack%20OR%20%22cyber%20attack%22%20OR%20cyber%20OR%20hack)&mode=ArtList&maxrecords=155&timespan=48h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=Khashoggi%20investigation&https://api.gdeltproject.org/api/v2/doc/doc?query=khashoggi&mode=ArtList&maxrecords=75&timespan=24h&trans=googtrans&format=json
