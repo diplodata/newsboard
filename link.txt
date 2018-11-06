@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Blasphemy%20Acquittal%20Pakistan&https://api.gdeltproject.org/api/v2/doc/doc?query=Pakistan%20acquittal%20blasphemy&mode=ArtList&maxrecords=200&timespan=24h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=USA%20midterms&https://api.gdeltproject.org/api/v2/doc/doc?query=(USA%20OR%20American)%20midterms%20elections&mode=ArtList&maxrecords=225&timespan=24h&trans=googtrans&format=json
