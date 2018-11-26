@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=US%20migration%20(Mexican%20coverage)%20&title_keywords=caravan,Tijuana&https://api.gdeltproject.org/api/v2/doc/doc?query=caravan%20Mexico%20sourcecountry:MX&mode=ArtList&sort=DateDesc&maxrecords=150&timespan=24h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=Ukraine%20and%20Russia&https://api.gdeltproject.org/api/v2/doc/doc?query=ukraine%20russia%20ship&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&trans=googtrans&format=json
