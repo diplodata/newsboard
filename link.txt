@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Ukraine%20and%20Russia&https://api.gdeltproject.org/api/v2/doc/doc?query=ukraine%20russia%20ship&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=24h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=Yemen%20Ceasefire&https://api.gdeltproject.org/api/v2/doc/doc?query=yemen%20houthi%20ceasefire&mode=ArtList&sort=DateDesc&maxrecords=210&timespan=24h&trans=googtrans&format=json
