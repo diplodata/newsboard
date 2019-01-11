@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=US%20Shutdown&https://api.gdeltproject.org/api/v2/doc/doc?query=trump%20congress%20shutdown&mode=ArtList&maxrecords=75&timespan=48h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=DR%20Congo%20Elections&https://api.gdeltproject.org/api/v2/doc/doc?query=Tshisekedi&mode=ArtList&maxrecords=75&timespan=48h&trans=googtrans&format=json
