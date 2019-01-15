@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?https://api.gdeltproject.org/api/v2/doc/doc?query=Chechnya%20gay%20%22anti-gay%22&mode=ArtList&maxrecords=185&timespan=48h&trans=googtrans&format=json
+https://diplodata.github.io/news/?title=Brexit%20vote%20(UK%20press)&title_keywords=Brexit,vote,parliament&https://api.gdeltproject.org/api/v2/doc/doc?query=Brexit%20vote%20sourcecountry:UK%20sourcelang:eng&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=6h&format=json
