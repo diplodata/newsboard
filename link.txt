@@ -1,1 +1,1 @@
-https://diplodata.github.io/news/?title=Brexit%20latest&title_keywords=petition,revok&https://api.gdeltproject.org/api/v2/doc/doc?query=Brexit%20petition%20(revoke%20OR%20revokation%20revoking)%20sourcecountry:UK&mode=ArtList&sort=DateDesc&maxrecords=250&timespan=2d&format=json
+https://diplodata.github.io/news/?title=Wikileaks%20coverage&title_keywords=assange,wiki&https://api.gdeltproject.org/api/v2/doc/doc?query=Assange%20(sourcelang:eng%20OR%20sourcelang:deu%20OR%20sourcelang:fra)&mode=ArtList&sort=DateDesc&maxrecords=160&timespan=12h&trans=googtrans&format=json
